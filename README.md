@@ -1,9 +1,6 @@
 # project name:
  Dragon ball superheros
 
-## Live Site link:
-https://dragon-ball-superheros.netlify.app/
-
 
 # Description:
 # 1. You Can select your favorite heros
